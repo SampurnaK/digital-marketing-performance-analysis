@@ -87,7 +87,7 @@ GitHub → Project documentation
 
 
 
-##🔎 Analysis Performed
+## 🔎 Analysis Performed
 
 
 
@@ -141,6 +141,7 @@ GitHub → Project documentation
 * **Strengthen Mid-Funnel (Consideration) Campaigns** - Increase spend allocation for Consideration-stage campaigns. Introduce limited-time offers to accelerate mid-funnel conversion.
 * **Improve Email Click-Through Performance** - A/B test CTA wording and placement. Use stronger personalization in subject lines. Add urgency triggers (countdowns, limited stock).
 * **Eliminate High-Spend, Low-Conversion Campaigns** - Set automated rule like pause campaigns below 5% conversion after threshold spend.
+
 
 
 
