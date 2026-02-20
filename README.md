@@ -1,24 +1,28 @@
-###### 📊 **Digital Marketing Performance Analysis**
+# 📊 **Digital Marketing Performance Analysis**
 
 
 
 
 
-**📈 Dashboard**
+##📈 Dashboard
 
 
 
 https://public.tableau.com/views/DigitalMarketing\_17714346539480/DashboardFinal?:language=en-GB\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
 
 
+##📈 Dashboard Preview
 
 
 
-###### 
+[Dashboard Screenshot](Digital_Marketing_Dashboard.png)
 
 
 
-📌 **Project Overview**
+
+
+
+##📌 Project Overview
 
 
 
@@ -30,7 +34,7 @@ This project analyzes digital marketing performance using Oracle SQL + Excel + T
 
 
 
-🗂 Dataset
+##🗂 Dataset
 
 
 
@@ -42,7 +46,7 @@ Records: 8,000 customers
 
 
 
-Key Variables:
+####Key Variables:
 
 
 
@@ -65,7 +69,7 @@ Key Variables:
 
 
 
-🛠 **Tools Used**
+##🛠 Tools Used
 
 
 
@@ -83,7 +87,7 @@ GitHub → Project documentation
 
 
 
-🔎 **Analysis Performed**
+##🔎 Analysis Performed
 
 
 
@@ -103,7 +107,7 @@ GitHub → Project documentation
 
 
 
-**📊 Key Insights**
+##📊 Key Insights
 
 
 
@@ -127,7 +131,7 @@ GitHub → Project documentation
 
 
 
-🚀 **Recommendations**
+##🚀 Recommendations
 
 
 
@@ -137,3 +141,4 @@ GitHub → Project documentation
 * **Strengthen Mid-Funnel (Consideration) Campaigns** - Increase spend allocation for Consideration-stage campaigns. Introduce limited-time offers to accelerate mid-funnel conversion.
 * **Improve Email Click-Through Performance** - A/B test CTA wording and placement. Use stronger personalization in subject lines. Add urgency triggers (countdowns, limited stock).
 * **Eliminate High-Spend, Low-Conversion Campaigns** - Set automated rule like pause campaigns below 5% conversion after threshold spend.
+
